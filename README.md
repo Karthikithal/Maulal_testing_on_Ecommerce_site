@@ -8,3 +8,5 @@ Test Plan: Outlines the scope, approach, and objectives of testing  E Commerce k
  Test Cases: Excel sheet with test cases for Login, Sign Up, and some working cases.
  Bug Reports: Sample bugs identified and given in same Excel  sheet what changes are required.
  
+Site : https://automationexercise.com/
+where this site helps to exercise on the testing program and upgrade the knowledge.
